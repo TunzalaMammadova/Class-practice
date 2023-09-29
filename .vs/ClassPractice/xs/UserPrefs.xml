@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{40AE3625-3915-4889-AFB1-6093FA80720D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassPractice/Employee.cs">
+    <Files>
+      <File FileName="ClassPractice/Program.cs" Line="3" Column="1" />
+      <File FileName="ClassPractice/CustomMath.cs" />
+      <File FileName="ClassPractice/Employee.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassPractice" expanded="True">
+            <Node name="ClassPractice">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassPractice PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
